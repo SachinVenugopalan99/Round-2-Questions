@@ -1,0 +1,17 @@
+.gridContainer {
+    width: 80%;
+    height: 69vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    .ag-header-container{
+        width: 100% !important;
+        .ag-header-row {
+            width: 100% !important;
+        }
+    }
+    .ag-center-cols-container{
+        width: 100% !important;
+    }
+}

@@ -1,0 +1,26 @@
+.containerBox {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        form {
+            width: 80%;
+        .selectBox{
+            width: 100%;
+            margin-top: 20px;
+            .select {
+                width: 100%;
+                cursor: pointer;
+            }
+        }
+    button{
+        width: 100%;
+        margin-top: 20px;
+        color: white;
+        background: blueviolet;
+        cursor: pointer;
+    }
+    }
+}
